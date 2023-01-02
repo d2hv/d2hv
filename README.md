@@ -16,8 +16,11 @@
 ## Notable Projects
 ###### *No particular order*
 
-**[RussianWare](https://github.com/d2hv/RussianWare)** - Minecraft cheat on written Java for Forge        
+**[3L3DCore]()*** - Advanced spigot plugin for 3l3d.xyz (fork of L2X9Core)       
+**[RussianWare](https://github.com/d2hv/RussianWare)** - Minecraft cheat written on Java for Forge        
 **[Jack-o-Lantern](https://github.com/d2hv/Jack-o-Lantern)** - Minecraft: Pocket Edition advanced server core for 0.12.1 (ABANDODED!)
+
+  ###### 3L3DCore* are not open source
 
 # GitHub Stats :computer:
 
